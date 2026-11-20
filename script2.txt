@@ -1,0 +1,6 @@
+#!/bi/bash
+
+echo "===== disk Usage ====="
+echo ""
+df -hT
+echo ""
