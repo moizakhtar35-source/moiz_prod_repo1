@@ -1,0 +1,4 @@
+#!/bin/bash
+
+user_1=moiz
+echo " hello, i am $user_1"
